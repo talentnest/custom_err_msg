@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = 'custom_error_message'
+  s.name = 'custom_err_msg'
   s.version = "1.1.1"
   
   s.platform = Gem::Platform::RUBY
